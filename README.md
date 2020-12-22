@@ -61,7 +61,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 *（点击即可展开或收起）*
 
 <details>
-    <summary>设置Gmail</summary>
+    <summary>配置Gmail</summary>
 <br>
   
 1、在`设置>转发和POP/IMAP`中，勾选
